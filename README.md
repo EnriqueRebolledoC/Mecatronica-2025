@@ -34,4 +34,4 @@ Para trabajar con este repositorio y completar el curso, necesitarás:
 
 ---
 
-*Revisa el `README.md` dentro de cada carpeta para el enunciado detallado.*
+*Revisa el `.md` dentro de cada carpeta para el enunciado detallado.*
