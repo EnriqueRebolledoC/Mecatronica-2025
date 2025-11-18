@@ -34,4 +34,26 @@ Para trabajar con este repositorio y completar el curso, necesitarás:
 
 ---
 
+## 📌 Proyecto Semestral: El Desafío Mayor
+
+El proyecto semestral es la culminación de sus conocimientos. En la carpeta `Proyecto Semestral/` encontrarán la guía completa.
+
+**Aspectos Clave Incluidos:**
+1.  **Modelos 3D:** Archivos para impresión o fabricación de componentes.
+2.  **Esquemáticos:** Diagramas de conexión eléctrica/electrónica.
+3.  **BOM (Lista de Materiales):** Listado completo de piezas y enlaces de compra.
+4.  **Manual de Armado:** Instrucciones paso a paso para el ensamblaje y puesta en marcha.
+
+---
+
+## 📚 Desafíos
+
+Estos ejercicios están diseñados para reforzar conceptos específicos de control y programación.
+
+| Desafío | Enfoque Principal |
+| :--- | :--- |
+| **Desafío 01** | Sensores y Adquisición de Datos |
+| **Desafío 02** | Control de Actuadores (Motores/Servos) |
+| **Desafío 03** | Comunicación Serial y Lógica de Estados |
+
 *Revisa el `.md` dentro de cada carpeta para el enunciado detallado.*
