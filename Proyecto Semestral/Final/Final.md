@@ -28,7 +28,7 @@ Este archivo contiene la lista detallada de todos los componentes electrónicos 
 | **Actuadores** | Motores Paso a Paso (NEMA) | Los motores deben proporcionar suficiente torque. |
 | **Drivers** | EasyDriver A3967 | Utilizados para controlar la corriente y pasos de los motores. |
 
-### 2. Modelos 3D del Sistema (`/componentes_3d/`)
+### 2. Modelos 3D del Sistema (`/Componentes 3D/`)
 
 Aquí se encuentran los archivos de diseño CAD utilizados para fabricar el *chasis* del robot y los soportes de componentes.
 * **Archivos:** `.STL`, `.STEP` o nativos de SolidWorks/Fusion 360.
