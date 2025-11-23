@@ -17,7 +17,7 @@ La clave del éxito en la replicación es la correcta **sintonización del contr
 
 Para que cualquier persona pueda replicar el robot, toda la documentación esencial se encuentra organizada en las siguientes subcarpetas:
 
-### 1. Listado Completo de Piezas y Materiales (`bill_of_materials.xlsx`)
+### 1. Listado Completo de Piezas y Materiales (`lista_componentes.xlsx`)
 
 Este archivo contiene la lista detallada de todos los componentes electrónicos y mecánicos.
 
