@@ -2,7 +2,7 @@
 Contenido del curso Mecatronica 4250-1 del año 2025 del grupo 3.  
 Integrantes:  
 -Felicie Nguyen (https://github.com/felicie-ngn)  
--Joaquín Poblete  
+-Joaquín Poblete https://github.com/Joaco-PM01  
 -Pablo Varetto D.  
 -Marina Olmedo G.  
 -Enrique Rebolledo C. (https://github.com/EnriqueRebolledoC)  
