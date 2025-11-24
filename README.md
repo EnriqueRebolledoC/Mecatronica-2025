@@ -56,4 +56,4 @@ Estos ejercicios están diseñados para reforzar conceptos específicos de contr
 | **Desafío 02** | Control de Actuadores (Motores/Servos) |
 | **Desafío 03** | Comunicación Serial y Lógica de Estados |
 
-*Revisa el `.md` dentro de cada carpeta para el enunciado detallado.*
+*Revisa el `.md` dentro de cada carpeta para información detallada.*
